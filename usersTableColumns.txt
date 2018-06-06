@@ -1,0 +1,7 @@
+1. ID
+2. e-mail
+3. Username (??)
+4. Name
+5. Surname
+6. Password
+7. RandomHesh
